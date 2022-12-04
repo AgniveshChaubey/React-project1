@@ -52,3 +52,9 @@ ol, ul {
 .game-info {
   margin-left: 20px;
 }
+
+
+.square{
+  background-color: #00fff2;
+  border-radius: 10px;
+}
