@@ -5,6 +5,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  /* margin-top: 35vh; */
 }
 
 ol, ul {
@@ -57,4 +58,6 @@ ol, ul {
 .square{
   background-color: #00fff2;
   border-radius: 10px;
+  border-color: black;
+  border-width: 1px;
 }
